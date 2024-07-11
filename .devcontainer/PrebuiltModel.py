@@ -1,8 +1,5 @@
 
 # set `<your-endpoint>` and `<your-key>` variables with the values from the Azure portal
-endpoint = "" 
-key = ""
-
 
 # import libraries
 import os
